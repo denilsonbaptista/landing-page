@@ -395,7 +395,7 @@ body .full-width {
     text-align: center;
   }
 
-  .menu-content, .menu-content ul {
+  dev.menu-content, .menu-content ul {
     flex-direction: column;
     justify-content: center;
   }
