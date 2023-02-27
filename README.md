@@ -4,7 +4,7 @@
 
 Landing page to put your knowledge about HTML and CSS into practice
 
-- <a href="https://denilsonbaptista.github.io/landing-page/" target="_blank"> Access the finished project online </a>
+- [Access the finished project online](https://denilsonbaptista.github.io/landing-page/)
 
 ### Technology
 
