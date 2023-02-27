@@ -2,7 +2,7 @@
 
 ### About
 
-Landing page to put your knowledge about HTML and CSS into practice
+Landing page to put into practice my knowledge of HTML and CSS
 
 - [Access the finished project online](https://denilsonbaptista.github.io/landing-page/)
 
